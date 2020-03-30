@@ -25,6 +25,6 @@ Building a REST API with Go lang and the MUX router
 
 3. Create a slice (dynamic array).Function init assignes Post array to test a GET operation.
 
-4. 
+
 
 
